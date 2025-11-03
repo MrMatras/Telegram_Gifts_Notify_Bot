@@ -4,9 +4,7 @@
 
 TG Gifts Notifier is a tool designed to notify users about new gifts available on the Telegram platform. It helps users stay updated and never miss out on any gifts.
 
-Our Main Telegram Channel — [Gifts Detector](https://t.me/gifts_detector)
-
-Our Upgrades Telegram Channel — [Gifts Upgrades Detector](https://t.me/gifts_upgrades_detector)
+My game's Telegram channel — [Forgotten Memories](https://t.me/forgottenmemoriesgame) Thanks for Subscribe!
 
 ## Features
 
@@ -77,12 +75,8 @@ Then, you must configure the notifier by editing the `config.py` file.
 
 ## Contact
 
-For any questions or feedback, please contact me at [my socials](https://aryn.sek.su/).
+For any questions or feedback, please create issue
 
 ---
-
-If you find TG Gifts Notifier useful and would like to support its development, consider making a donation. Your contributions help in maintaining and improving the project.
-
-You can donate via the following methods listed on this [site](https://aryn.sek.su/donates).
 
 Thank you for your support!

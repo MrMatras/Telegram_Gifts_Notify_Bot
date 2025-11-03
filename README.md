@@ -4,7 +4,8 @@
 
 TG Gifts Notifier is a tool designed to notify users about new gifts available on the Telegram platform. It helps users stay updated and never miss out on any gifts.
 
-My game's Telegram channel — [Forgotten Memories](https://t.me/forgottenmemoriesgame) Thanks for Subscribe!
+My game's Telegram channel — [Forgotten Memories](https://t.me/forgottenmemoriesgame) (This game is my personal project, so I am advertising it.)
+Thanks for Subscribe!
 
 ## Features
 

@@ -1,3 +1,10 @@
+import asyncio, sys
+if sys.version_info >= (3, 11):
+    try:
+        asyncio.get_running_loop()
+    except RuntimeError:
+        asyncio.set_event_loop(asyncio.new_event_loop())
+
 from pyrogram import Client
 from pyrogram.raw.types.auth.exported_authorization import ExportedAuthorization
 from pyrogram.raw.functions.auth.export_authorization import ExportAuthorization

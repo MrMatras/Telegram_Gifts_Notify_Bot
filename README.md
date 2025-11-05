@@ -74,9 +74,9 @@ Then, you must configure the notifier by editing the `config.py` file.
 | TIMEZONE                   | String            | Timezone for the messages' date & time (e.g., "Europe/Moscow")                                            |
 | HTTP_REQUEST_TIMEOUT       | Float             | Timeout for Bot API requests (in seconds)                                                                 |
 
-## Contact
+## Helping with the code
 
-For any questions or feedback, please create issue
+If you want to add a new feature, create a pull request with a detailed description of this feature.
 
 ---
 
